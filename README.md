@@ -5,5 +5,11 @@ Usage: Open Code Editor(Vs Code Or Other) And Run Main.py And Enjoy
 
 Player:
 
-Left Click Mouse = Attack 1 /n
-Attack 2 Attack 3 Right Click Mouse = Block Attack Right Click Mouse + Shift = Counter (Parry) Right Click Mouse + Shift + Left Click Mouse = Counter Attack Keyword D and A = Walking Keyword Shift = Dashing Keyword Space = Jump, Double Jump Keyword Q = Using Skill
+Left Click Mouse = Attack 1 Attack 2 Attack 3 <br>
+Right Click Mouse = Block Attack  <br>
+Right Click Mouse + Shift = Counter (Parry) <br>
+Right Click Mouse + Shift + Left Click Mouse = Counter Attack <br>
+Keyword D and A = Walking <br>
+Keyword Shift = Dashing <br>
+Keyword Space = Jump, Double Jump <br>
+Keyword Q = Using Skill <br>
