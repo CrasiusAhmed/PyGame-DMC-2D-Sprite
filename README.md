@@ -1,4 +1,5 @@
-![Devil Is Cry](https://github.com/user-attachments/assets/d93b85d6-c42d-4858-aee9-8e4d807d534b) <br>
+![Devil Is Cry 3](https://github.com/user-attachments/assets/71826e41-90c2-41aa-8453-009a44bb030b) ![Devil Is Cry 1](https://github.com/user-attachments/assets/c95d3066-28cd-4da8-a2ba-ca0fbafa796d) <br>
+ <br>
 
 PyGame DMC Game Creation Tutorial in Python For Learning | Free Open Source With Level Editor
 i create simple game I'm trying to create course of teaching how to create game With PyGame of python coding I think it's simple and better then Unity right now this is simple game you can try it just run main.py of python and have see little game i will make 4 part of teaching how to create everything from basic to start for you
@@ -7,6 +8,13 @@ Video Of explain Most Code (Soon):
 https://www.youtube.com/@Crasius-madman <br> <br>
 
 Usage: Open Code Editor(Vs Code Or Other) And Run Main.py And Enjoy <br>
+
+Images: <br>
+
+![Devil Is Cry 2](https://github.com/user-attachments/assets/28fbcbd1-ef15-47fd-808d-40bcb39720b6)
+![Devil Is Cry 3](https://github.com/user-attachments/assets/7ba3f2ce-f208-4c7d-92bd-aa7434601da8)
+
+
 
 Player:
 
